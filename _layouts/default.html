@@ -1,15 +1,49 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
-        <meta name="viewport" content="width=device-width">
-        <link rel="stylesheet" href="/css/main.css">
+        {% include head.inc %}
+        <style>
+            /* no reset, browser defaults ftw */
+            body{
+                color:#444;
+                padding:1em;
+                max-width:40em;
+                margin:0 auto;
+                font-family: "Helvetica Neue", Helvetica, Arial,sans-serif;
+                line-height:1.5;
+            }
+            img{
+                max-width:100%;
+            }
+            h1, h2, h3, h4, h5, h6, strong{
+                color:#606060;
+                margin:0 0 0.4em;
+                line-height:1.2;
+            }
+            .sail{
+                display:block;
+                margin:0 0 2em;
+            }
+            h1{
+                margin:0;
+                font-size:2.4em;
+            }
+            .tagline{
+                font-size:1.1em;
+                margin:0 0 1em;
+            }
+            ul, ol, p{
+                margin:0 0 1em;
+            }
+            a{
+                color:rgb(215, 66, 132);
+            }
+
+
+        </style>
     </head>
     <body>
-        <h1 class="title"><a href="/">{{site.name}}</a></h1>
-
+        <img class="sail" src="/img/head.png" alt="Ertussenuit #1. De Studio.">
         {{ content }}
     </body>
 </html>
