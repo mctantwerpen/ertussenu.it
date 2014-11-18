@@ -1,0 +1,19 @@
+{
+  "name": "ertussenuit",
+  "version": "0.0.2",
+  "description": "Static site for ertussenu.it events",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mctantwerpen/ertussenu.it.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mctantwerpen/ertussenu.it/issues"
+  },
+  "homepage": "https://github.com/mctantwerpen/ertussenu.it"
+}

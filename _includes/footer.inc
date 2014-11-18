@@ -1,0 +1,1 @@
+<img class="feet" src="/img/feet.png" alt="Ertussenuit partners: Karel De Grote Hogeschool, Rombouts.">
