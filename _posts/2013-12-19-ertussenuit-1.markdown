@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Ertussenuit #1"
 permalink: "1"
 date:   2013-12-19

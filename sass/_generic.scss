@@ -15,16 +15,9 @@ h1, h2, h3, h4, h5, h6, strong{
     margin:0 0 0.4em;
     line-height:1.2;
 }
-.sail{
-    display:block;
-}
 h1{
     margin:0;
     font-size:2.4em;
-}
-.tagline{
-    font-size:1.1em;
-    margin:0 0 1em;
 }
 ul, ol, p{
     margin:0 0 1.5em;
@@ -34,4 +27,10 @@ a{
 }
 li a{
     text-decoration: none;
+}
+.sail{
+    display:block;
+}
+.trailer{
+    margin: 0 0 1em;
 }

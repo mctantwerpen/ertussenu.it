@@ -1,13 +1,22 @@
 ---
-layout: default
+layout: page
 title: Ertussenuit - Inspiratie en creativiteit
 ---
 
-<h3>Updates</h3>
+<aside class="updates trailer">
+  <h3>Updates</h3>
 
-<a href="https://twitter.com/ertussenu_it">@ertussenu_it</a> / <a href="https://twitter.com/search?src=typd&q=%23ertussenuit">#ertussenuit</a>
+  <a href="https://twitter.com/ertussenu_it">@ertussenu_it</a> / <a href="https://twitter.com/search?src=typd&q=%23ertussenuit">#ertussenuit</a>
+</aside>
 
 {% for post in site.posts %}
-  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-  <p><strong>{{ post.date | date: "%B %e, %Y" }}</strong></p>
+  <article class="event-teaser">
+    <div class="visuallyhidden">
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p>{{ post.date | date: "%B %e, %Y" }}</p>
+    </div>
+    <a href="{{ post.url }}">
+    <img src="/img/events/{{post.permalink}}-teaser.png" alt="{{post.title}}" />
+    </a>
+  </article>
 {% endfor %}
