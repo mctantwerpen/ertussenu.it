@@ -14,3 +14,6 @@ Find the code at https://github.com/mctantwerpen/ertussenu.it
 Fork it, send a pull request on github and we'll fix it together.
 -->
 <link rel="stylesheet" href="/css/app.css">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<meta name="msapplication-TileColor" content="#ffffff">
