@@ -2,7 +2,7 @@
   position: relative;
   border-top:1px solid $light;
   border-bottom:1px solid $light;
-  padding: 10px 0;
+  padding: 40px 0 12px;
   margin: 0 0 50px;
 
   a{
@@ -18,6 +18,20 @@
     bottom: -48px;
     left: 50%;
   }
+}
+
+.teaser__link{
+  color:$highlight;
+  font-weight: bold;
+  text-decoration: none;
+  position: absolute;
+  top: 10px;
+  left: 0;
+}
+
+.teaser__link--location{
+  left: auto;
+  right: 0;
 }
 
 .overview__start{

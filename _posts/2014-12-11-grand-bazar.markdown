@@ -5,6 +5,7 @@ permalink: "3"
 date:   2014-12-11
 banner: false
 published: false
+location: Pop-up lokaal Grand Bazar
 ---
 
 ### Programma

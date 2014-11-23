@@ -3,6 +3,7 @@ layout: post
 title:  "Ertussenuit #1"
 permalink: "1"
 date:   2013-12-19
+location: De Studio - Zaal Fred
 ---
 
 <h2 class="tagline">Gratis dag vol inspiratie en kennis in De studio</h2>
