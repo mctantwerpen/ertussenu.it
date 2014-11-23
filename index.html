@@ -9,14 +9,17 @@ title: Ertussenuit - Inspiratie en creativiteit
   <a href="https://twitter.com/ertussenu_it">@ertussenu_it</a> / <a href="https://twitter.com/search?src=typd&q=%23ertussenuit">#ertussenuit</a>
 </aside>
 
-{% for post in site.posts %}
-  <article class="event-teaser">
-    <div class="visuallyhidden">
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <p>{{ post.date | date: "%B %e, %Y" }}</p>
-    </div>
-    <a href="{{ post.url }}">
-    <img src="/img/events/{{post.permalink}}-teaser.png" alt="{{post.title}}" />
-    </a>
-  </article>
-{% endfor %}
+<div class="overview">
+  {% for post in site.posts %}
+    <article class="teaser">
+      <div class="visuallyhidden">
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <p>{{ post.date | date: "%B %e, %Y" }}</p>
+      </div>
+      <a href="{{ post.url }}">
+      <img src="/img/events/{{post.permalink}}-teaser.png" alt="{{post.title}}" />
+      </a>
+    </article>
+  {% endfor %}
+  <p class="overview__start u-center">Born</p>
+</div>

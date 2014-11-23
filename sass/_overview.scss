@@ -1,0 +1,26 @@
+.teaser{
+  position: relative;
+  border-top:1px solid $light;
+  border-bottom:1px solid $light;
+  padding: 10px 0;
+  margin: 0 0 50px;
+
+  a{
+    display: block;
+  }
+
+  &:after{
+    content:' ';
+    width: 0;
+    height: 45px;
+    border-right:1px dashed $light;
+    position: absolute;
+    bottom: -48px;
+    left: 50%;
+  }
+}
+
+.overview__start{
+  color:$light;
+  line-height: 1;
+}
