@@ -6,7 +6,7 @@ date:   2013-12-19
 location: De Studio - Zaal Fred
 ---
 
-<h2 class="tagline">Gratis dag vol inspiratie en kennis in De studio</h2>
+## Gratis dag vol inspiratie en kennis in De studio
 
 Op **donderdag 19 december** houdt de richting Multimedia en Communicatietechnologie van KdG de eerste editie van Ertussenuit.
 Er zal heel wat 'food for thought' worden meegeven.
