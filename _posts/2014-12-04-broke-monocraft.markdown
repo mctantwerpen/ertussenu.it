@@ -14,7 +14,7 @@ We nodigen een aantal sprekers uit die elk vanuit hun passie en expertise een bo
 
 ### Programma
 - 8.30u: Onthaal met koffie
-- 9u: Lenny - [Broke Bikes](https://brokebik.es/): Design your own fixie
+- 9u: [Lenny Benaïcha](http://scarlenn.be) - [Broke Bikes](https://brokebik.es/): Design your own fixie
 - 9.45u: [Caroline Vermeir](http://studiocaro.be/) - [Monocraft](http://monocraft.be): Speelse 3D print webshop
 
 
