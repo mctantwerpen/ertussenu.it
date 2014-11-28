@@ -3,7 +3,7 @@ layout: post
 title:  "Ertussenuit #3"
 permalink: "3"
 date:   2014-12-11
-published: false
+published: true
 location: Pop-up lokaal Grand Bazar
 ---
 
@@ -16,4 +16,4 @@ We nodigen een aantal sprekers uit die elk vanuit hun passie en expertise een bo
 ### Programma
 - 8.30u: Onthaal met koffie
 - 9u: [Michiel Meekels](http://michielmeekels.tumblr.com/) - [Blend](http://www.blend.be/): Stay curious
-- 9.45u: [Petra Sell](http://www.volpelino.com)
+- 9.45u: [Petra Sell](http://www.volpelino.com) - [Volpelino](http://www.volpelino.com/)
