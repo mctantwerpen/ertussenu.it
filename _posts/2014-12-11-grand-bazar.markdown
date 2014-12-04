@@ -13,9 +13,9 @@ We gaan voor een tweede keer voor een ochtend editie in een [pop-up lokaal](http
 We nodigen een aantal sprekers uit die elk vanuit hun passie en expertise een boeiende presentatie neerzetten.
 
 ### Programma
-- 8.30u: Onthaal met koffie
-- 9u: [Michiel Meekels](http://michielmeekels.tumblr.com/) - [Blend](http://www.blend.be/): Always Stay Curious
-- 9.45u: [Petra Sell](http://www.volpelino.com) - [Volpelino](http://www.volpelino.com/): Trust your gut
+- 8.15u: Onthaal met koffie
+- 8.45u: [Michiel Meekels](http://michielmeekels.tumblr.com/) - [Blend](http://www.blend.be/): Always stay curious
+- 9.30u: [Petra Sell](http://www.volpelino.com) - [Volpelino](http://www.volpelino.com/): Trust your gut
 
 
 ### Locatie
