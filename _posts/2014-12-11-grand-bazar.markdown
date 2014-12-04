@@ -6,7 +6,7 @@ date:   2014-12-11
 location: Pop-up lokaal Grand Bazar
 ---
 
-## Tweede ochtendsessie: buikgevoel
+## Inspirerende ochtendsessie: curiosity
 
 Op **donderdag 11 december** houdt de richting [Multimedia Technology](http://multimediatechnology.be) van KdG de derde editie van Ertussenuit.
 We gaan voor een tweede keer voor een ochtend editie in een [pop-up lokaal](http://atv.be/nieuws/2014-11-10/studeren-in-grand-bazar-shoppingcenter) in het Grand Bazar shopping centrum.
@@ -16,6 +16,7 @@ We nodigen een aantal sprekers uit die elk vanuit hun passie en expertise een bo
 - 8.15u: Onthaal met koffie
 - 8.45u: [Michiel Meekels](http://michielmeekels.tumblr.com/) - [Blend](http://www.blend.be/): Always stay curious
 - 9.30u: [Petra Sell](http://www.volpelino.com) - [Volpelino](http://www.volpelino.com/): Trust your gut
+- 10.30u [Ben De Vleeschauwer](https://twitter.com/sheriffbenjamin) - [Multimedia technology](http://multimediatechnology.be): Have fun, make things
 
 
 ### Locatie
