@@ -13,10 +13,10 @@ We gaan voor een tweede keer voor een ochtend editie in een [pop-up lokaal](http
 We nodigen een aantal sprekers uit die elk vanuit hun passie en expertise een boeiende presentatie neerzetten.
 
 ### Programma
-- 8.30u: Onthaal met koffie
-- 9.00u: [Michiel Meekels](http://michielmeekels.tumblr.com/) - [Blend](http://www.blend.be/): Always stay curious
-- 9.45u: [Petra Sell](http://www.volpelino.com) - [Volpelino](http://www.volpelino.com/): Trust your gut
-- 10.45u [Ben De Vleeschauwer](https://twitter.com/sheriffbenjamin) - [Multimedia technology](http://multimediatechnology.be): Have fun, make things
+- 8.15u: Onthaal met koffie
+- 8.30u: [Michiel Meekels](http://michielmeekels.tumblr.com/) - [Blend](http://www.blend.be/): Always stay curious
+- 9.30u: [Petra Sell](http://www.volpelino.com) - [Volpelino](http://www.volpelino.com/): Trust your gut
+- 10.30u [Ben De Vleeschauwer](https://twitter.com/sheriffbenjamin) - [Multimedia technology](http://multimediatechnology.be): Have fun, make things
 
 
 ### Locatie
