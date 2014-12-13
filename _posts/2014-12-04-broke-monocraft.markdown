@@ -27,3 +27,7 @@ Beddenstraat 2,<br>
 <a href="http://www.grandbazarantwerp.be/">Grand Bazar Antwerp</a> / <a href="https://www.google.be/maps/place/Grand+Bazar/@51.218839,4.402883,15z/data=!4m2!3m1!1s0x0:0xe6366d70066e42f0?sa=X&ei=7GNwVJWJF5HqaPGGgOAD&ved=0CIcBEPwSMBA">bekijk op kaart</a>
 
 Dit event is gratis. Je uitnodiging is persoonlijk, maar breng gerust nog iemand mee.
+
+### Media
+
+<div style='position: relative; padding-bottom: 71%; height: 0; overflow: hidden;'><iframe id='iframe' src='http://flickrit.com/slideshowholder.php?height=70&size=big&setId=72157647411026213&thumbnails=0&transition=0&layoutType=responsive&sort=0' scrolling='no' frameborder='0'style='width:100%; height:100%; position: absolute; top:0; left:0;' ></iframe></div>
